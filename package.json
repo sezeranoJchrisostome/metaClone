@@ -1,0 +1,25 @@
+{
+  "name": "metaclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sezeranoJchrisostome/metaClone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sezeranoJchrisostome/metaClone/issues"
+  },
+  "homepage": "https://github.com/sezeranoJchrisostome/metaClone#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "tailwindcss": "^3.1.8",
+    "vite": "^3.1.3"
+  }
+}

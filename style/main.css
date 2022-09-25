@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Optimistic Display Medium', Helvetica, Arial, sans-serif;
+    color: #1c2b33;
+}
+
